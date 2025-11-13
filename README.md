@@ -1,2 +1,6 @@
 # uranium_surface_hydride_random_nulceation
-This is a program used to simulate the random nucleation of hydride on the surface of uranium.
+A code used to simulate the random nucleation of hydride on the surface of uranium.
+
+Pre-requisite packages:
+MOOSE see: https://mooseframework.inl.gov/
+
